@@ -15,11 +15,11 @@
 #define SMTP_HOST "smtp.gmail.com" // SMTP host
 #define SMTP_PORT esp_mail_smtp_port_587
 // As credenciais de login
-#define AUTOR_EMAIL "alanbs27@gmail.com"
-#define AUTOR_SENHA "htcisglcdpdmrgmv"
+#define AUTOR_EMAIL "SEU EMAIL"
+#define AUTOR_SENHA "SUA SENHA"
 // E-mail do destinatário
 #define DESTINATARIO_NOME "ADM Alarme"
-#define DESTINATARIO_EMAIL "alanbs27@gmail.com"
+#define DESTINATARIO_EMAIL "EMAIL DESTINATÁRIO"
 // O objeto de sessão SMTP usado para envio de e-mail
 SMTPSession smtp;
 // Variáveis Globais
